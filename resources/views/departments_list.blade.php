@@ -9,7 +9,7 @@
 <body>
 
 <div class="diva">
-    <h2>Departments of</h2>
+    <h2>All Departments of</h2>
     <h1>{{ $college->CollegeName }}</h1>
         <div>
             <button onclick="openAddModal()">Add Department</button>
