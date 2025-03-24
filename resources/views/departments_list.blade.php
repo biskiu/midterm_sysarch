@@ -106,7 +106,7 @@
             </form>
         </div>
     </div>
-    
+
 
     <!-- EDIT Modal -->
     <div id="editModal" class="modal">
@@ -132,6 +132,7 @@
 
 <script src="/js/department_script.js"></script>
 <br><br><br>
+
 
 </body>
 </html>
