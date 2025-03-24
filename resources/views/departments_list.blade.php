@@ -9,16 +9,17 @@
 <body>
 
 <div class="diva">
-    <h2>Departments of</h2>
+    <h2>All Departments of</h2>
     <h1>{{ $college->CollegeName }}</h1>
         <div>
-            <button onclick="openAddModal()">Add Department</button>
+            <button onclick="openAddModal()">Add a Department</button>
             {{-- <a href= {{ route('college') }} >BACK</a> --}}
             <button onclick="window.location.href='{{ route('college') }}'">Back</button>
                 <input type="radio" name="filter" id="hideDeleted" checked> Hide Deleted
                 <input type="radio" name="filter" id="showAll"> Show All
 
         </div>
+
 <br>
     <table>
         <tr>
@@ -84,7 +85,6 @@
 </div>
 
 
-
     <!-- ADD Modal -->
     <div id="addModal" class="modal">
         <div class="modal-content">
@@ -106,6 +106,7 @@
             </form>
         </div>
     </div>
+
 
     <!-- EDIT Modal -->
     <div id="editModal" class="modal">
@@ -131,6 +132,7 @@
 
 <script src="/js/department_script.js"></script>
 <br><br><br>
+
 
 </body>
 </html>

@@ -66,7 +66,7 @@ button:hover {
 
 table {
 
-    background: #e4e8ec; /*background: #e2e8ec; just changed the 2 to 4*/
+    background:rgb(220, 216, 223);
     overflow: hidden;
     border: 2px solid #caccce;
     border-radius: 20px;
