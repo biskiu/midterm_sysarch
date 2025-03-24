@@ -12,7 +12,7 @@
     <h2>All Departments of</h2>
     <h1>{{ $college->CollegeName }}</h1>
         <div>
-            <button onclick="openAddModal()">Add Department</button>
+            <button onclick="openAddModal()">Add a Department</button>
             {{-- <a href= {{ route('college') }} >BACK</a> --}}
             <button onclick="window.location.href='{{ route('college') }}'">Back</button>
                 <input type="radio" name="filter" id="hideDeleted" checked> Hide Deleted
