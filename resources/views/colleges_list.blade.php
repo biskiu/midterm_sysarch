@@ -24,7 +24,7 @@
 <table>
     <tr>
         <th>Names</th>
-        <th>Code</th>
+        <th>Codes</th>
         <th>Status</th>
         <th>Actions</th>
 
