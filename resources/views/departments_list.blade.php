@@ -106,6 +106,7 @@
             </form>
         </div>
     </div>
+    
 
     <!-- EDIT Modal -->
     <div id="editModal" class="modal">
