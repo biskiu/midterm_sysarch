@@ -109,7 +109,7 @@
 <!-- EDIT Modal Pop-up -->
 <div id="editModal" class="modal" style="display: none;">
     <div class="modal-content">
-        <h2>Edit College</h2>
+        <h2>Modify College</h2>
         <form id="editForm" action="" method="POST">
             @csrf
             @method('PUT')
