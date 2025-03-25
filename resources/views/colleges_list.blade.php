@@ -23,12 +23,10 @@
         <br>
 <table>
     <tr>
-        <th>Names</th>
-        <th>Codes</th>
+        <th>Name</th>
+        <th>Code</th>
         <th>Status</th>
         <th>Actions</th>
-
-
     </tr>
 
     <tbody id="tableBody">
@@ -89,7 +87,7 @@
 <!-- ADD Modal Pop-up -->
 <div id="addModal" class="modal">
     <div class="modal-content">
-        <h2>Add College</h2>
+        <h2>New College</h2>
 
         <form action="/store-college" method="POST">
             @csrf <!-- CSRF Token -->
@@ -111,7 +109,7 @@
 <!-- EDIT Modal Pop-up -->
 <div id="editModal" class="modal" style="display: none;">
     <div class="modal-content">
-        <h2>Edit College</h2>
+        <h2>Modify College</h2>
         <form id="editForm" action="" method="POST">
             @csrf
             @method('PUT')

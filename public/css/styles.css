@@ -47,7 +47,7 @@ nav a {
 
 /* Buttons */
 button {
-    background: #2c90e2;
+    background: #3194e6;
     color: #fff;
     border: none;
     padding: 10px 16px;
@@ -58,7 +58,7 @@ button {
 }
 
 button:hover {
-    background: #1e6db3;
+    background: #1b67a8;
 }
 
 /* Table Styles */
@@ -74,7 +74,7 @@ table {
 }
 
 table thead {
-    background: #f8fafb;
+    background: #e6eaec;
     font-weight: 600;
 }
 
@@ -93,7 +93,7 @@ table tr:hover {
 }
 
 .status-button {
-    background: #e8eef3;
+    background: #dce3e9;
     color: #0e151b;
     font-size: 14px;
     border-radius: 6px;
@@ -125,7 +125,7 @@ table tr:hover {
         }
         .modal-content {
             background: white;
-            padding: 20px;
+            padding: 25px;
             border-radius: 10px;
             text-align: center;
         }
