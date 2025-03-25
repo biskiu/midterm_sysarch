@@ -23,10 +23,10 @@
 <br>
     <table>
         <tr>
-            {{-- <th>Name</th>
+            <th>Name</th>
             <th>Code</th>
             <th>Status</th>
-            <th>Actions</th> --}}
+            <th>Actions</th>
 
             @if ($errors->any())
             <div style="color: red;">
