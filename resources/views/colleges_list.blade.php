@@ -27,8 +27,6 @@
         <th>Code</th>
         <th>Status</th>
         <th>Actions</th>
-
-
     </tr>
 
     <tbody id="tableBody">
@@ -89,7 +87,7 @@
 <!-- ADD Modal Pop-up -->
 <div id="addModal" class="modal">
     <div class="modal-content">
-        <h2>Add College</h2>
+        <h2>New College</h2>
 
         <form action="/store-college" method="POST">
             @csrf <!-- CSRF Token -->
