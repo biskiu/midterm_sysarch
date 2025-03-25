@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Colleges</title>
+    <title>All Colleges</title>
     <link rel="stylesheet" href="/css/styles.css">
 </head>
 
@@ -23,8 +23,8 @@
         <br>
 <table>
     <tr>
-        <th>Names</th>
-        <th>Codes</th>
+        <th>Name</th>
+        <th>Code</th>
         <th>Status</th>
         <th>Actions</th>
 
