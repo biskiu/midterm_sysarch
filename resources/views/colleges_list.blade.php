@@ -23,8 +23,8 @@
         <br>
 <table>
     <tr>
-        <th>Names</th>
-        <th>Codes</th>
+        <th>Name</th>
+        <th>Code</th>
         <th>Status</th>
         <th>Actions</th>
 
