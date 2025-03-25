@@ -12,7 +12,7 @@
 
 
 <div class="diva">
-    <h1>Added Colleges</h1>
+    <h1>Colleges</h1>
         <div>
             <button onclick="openAddModal()">Add College</button>
             {{-- <label>
